@@ -1,3 +1,14 @@
+## Overview
+This is a sample application that demonstrates an E-commerce website using the MEAN stack. The application loads products a MongoDB database and displays them. Users can select items and add it to their shopping cart. AWS has been used for storing the products image data, and that s3 link get stored in MongoDB.
+
+## TechStack
+- Node.js
+- Express.js
+- AWS
+- HTML/CSS
+- Javascript
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
