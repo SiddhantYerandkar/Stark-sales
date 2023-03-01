@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jost", sans-serif;
+  }
+
+.bg-info{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 20px;
+    border-top: 1px solid #eee;
+    background-color: #1593b9;  
+}
+.footer-copyright{
+    
+    text-align: center;
+
+}
